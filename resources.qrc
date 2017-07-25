@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/View2PNG" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
